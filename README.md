@@ -1,4 +1,4 @@
-# DeployDash CI/CD Pipeline
+# Deploy Dash CI/CD Pipeline
 _Automated CI/CD pipeline for deploying a static website on AWS._
 
 ## Overview
