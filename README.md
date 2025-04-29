@@ -1,4 +1,4 @@
-# Deploy Dash Pipeline
+# CI/CD for Static Websites
 _Automated CI/CD pipeline for deploying a static website on AWS._
 
 ## Overview
